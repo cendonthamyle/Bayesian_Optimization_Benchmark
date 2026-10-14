@@ -1,0 +1,27 @@
+# Python and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+# Data: documentation tracked, measurements never tracked
+data/*
+!data/README.md
+# Large/intermediate experiment artifacts
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+*.parquet
+*.h5
+*.pt
+*.pth
+results/runs/
+reports/drafts/
+# Environment lock to be added after validation; do not ignore lock files

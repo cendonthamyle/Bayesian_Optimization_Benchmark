@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this educational reproduction, cite this repository and the original paper linked in README.md."
+title: "Bayesian Optimization — Reproduction Benchmark"
+type: software
+authors:
+  - family-names: Cendon
+    given-names: Thamyle
+license: MIT

@@ -1,0 +1,21 @@
+{
+  "status": "planned_not_executed",
+  "dataset": null,
+  "upstream_commit": null,
+  "seed_candidates": [
+    11,
+    29,
+    47,
+    71,
+    97
+  ],
+  "n_initial_candidate": 5,
+  "query_budget_candidate": 30,
+  "strategies": [
+    "gp_configuration_to_select",
+    "rf_configuration_to_select",
+    "random_search"
+  ],
+  "direction": null,
+  "note": "Provisional budget and seeds, not claimed paper settings. Confirm feasibility and reproduce original configurations before final runs."
+}
